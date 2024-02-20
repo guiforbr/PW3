@@ -11,31 +11,30 @@ body {
 
 nav {
     background-color: aliceblue;
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family:'sans serif';
     text-align: center;
     font-size: 25pt;
     border-radius: 20px;
-    margin: 0px 350px;
+    margin: 1% 35%;
     box-shadow: 1px 1px;
+    width: 32%;
 }
 
 .box{
     box-sizing: border-box;
-    box-shadow: 1px 1px 1px 5px;
-    margin: 15px 450px 0px 450px;
-    padding: 5px;
+    box-shadow: 1px 1px 1px 1px;
+    margin: 1% 35%;
+    padding: 1%;
     backdrop-filter: blur(15px);   
+    width: 30%;
+    height: 50%;
 }
 
-.foto{  
-        display: flex;
-        width: 200px;
+.foto{   
+        margin: 2% 47%;
+        width: 150px;
         height: 250px;
-        border-radius: 500px;
+        border-radius: 50%;
         box-sizing: border-box;
-        box-shadow: 1px 1px 1px 5px;
-        margin: 8px 250px 0px 570px;
+        box-shadow: 1px 1px 1px 1px brown;
 }
-
-
-
